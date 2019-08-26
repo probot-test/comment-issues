@@ -2,3 +2,4 @@
 mergemate test!
 TEST
 TEST
+TEST
