@@ -1,2 +1,2 @@
 # comment-issues
-mergemate test #1
+mergemate test
